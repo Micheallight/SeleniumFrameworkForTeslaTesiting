@@ -1,7 +1,6 @@
 package test;
 
 import model.Paint;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import page.DesignOverviewPage;
 import service.PaintCreator;

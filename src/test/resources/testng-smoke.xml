@@ -6,4 +6,14 @@
             <class name="test.PaintSelectTest" />
         </classes>
     </test>
+    <test name="CheckBasicCarPriceTest">
+        <classes>
+            <class name="test.CheckBasicCarPriceTest" />
+        </classes>
+    </test>
+    <test name="EnterZipCodeTest">
+        <classes>
+            <class name="test.EnterZipCodeTest" />
+        </classes>
+    </test>
 </suite>
