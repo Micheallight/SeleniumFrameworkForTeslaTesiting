@@ -50,7 +50,7 @@ public class DriverSingleton {
 					}
 				}
 			}
-			driver.manage().window().setSize(new Dimension(2560,1440));
+			driver.manage().window().setSize(new Dimension(3840,2160));
 		}
 		return driver;
 	}
