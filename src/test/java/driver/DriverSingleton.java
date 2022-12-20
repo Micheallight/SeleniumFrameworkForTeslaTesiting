@@ -23,10 +23,10 @@ public class DriverSingleton {
 				WebDriverManager.chromedriver().setup();
 				ChromeOptions chromeOptions = new ChromeOptions();
 				chromeOptions.addArguments(
+						"--window-size=3840,2160",
 						"--headless",
 						"--no-sandbox",
 						"--disable-dev-shm-usage",
-						"--window-size=3840,2160",
 						"--disable-extensions",
 						"--proxy-server='direct://'",
 						"--proxy-bypass-list=*",
