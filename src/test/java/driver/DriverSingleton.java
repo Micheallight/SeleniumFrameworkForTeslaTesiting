@@ -26,7 +26,7 @@ public class DriverSingleton {
 						"--headless",
 						"--no-sandbox",
 						"--disable-dev-shm-usage",
-						"--window-size=1680,1050",
+						"--window-size=3840,2160",
 						"--disable-extensions",
 						"--proxy-server='direct://'",
 						"--proxy-bypass-list=*",
